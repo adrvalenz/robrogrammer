@@ -22,4 +22,4 @@ robrogrammer.on('messageCreate', async (messageCreate) => {
 /***************************************************************************************************
 *   BOT LOGIN - KEEP AT END OF FILE
 ***************************************************************************************************/
-robrogrammer.login(process.env.ROBOBROGRAMMER_TOKEN);
+robrogrammer.login(process.env.ROBROGRAMMER_TOKEN);
